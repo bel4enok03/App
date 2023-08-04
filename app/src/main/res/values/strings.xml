@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">App</string>
+    <string name="api_key">12885059bb676c1289121142c2d8f096</string>
+    <string name="weather_url">https://api.openweathermap.org/data/2.5/weather?q=%s&amp;appid=%s</string>
+    <string name="weather">Погода: %s</string>
+    <string name="temperature">Температура: %.2f°C</string>
+    <string name="wind_speed">Скорость ветра: %.1f м/с</string>
+    <string name="humidity">Влажность: %d%%</string>
+    <string name="weather_button_text">Погода</string>
+    <string name="enter_city_hint">Введите город</string>
+    <string name="get_weather_button_text">Узнать погоду</string>
+    <string name="timer_button_text">Таймер</string>
+    <string name="timer_finished">Таймер завершен!</string>
+    <string name="start_button_text">Старт</string>
+    <string name="pause_button_text">Пауза</string>
+    <string name="stop_button_text">Стоп</string>
+    <string name="main_menu_button_text">Вернуться в главное меню</string>
+
+</resources>
